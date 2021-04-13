@@ -1,0 +1,53 @@
+name: Core
+main: dev.prison.core.CorePlugin
+version: 1.0-SNAPSHOT
+authors: [Mint, Bridge, DMT420]
+load: STARTUP
+api-version: 1.16
+commands:
+  earrape:
+    discription:
+       use at own discression.
+    usage:
+      /earrape <name>
+  freeze:
+    discription:
+      freeze someone in place they won't be able to log out
+    usage:
+      /freeze <name>
+  manageplayers:
+    discription:
+      utillity for quick commands on specific players
+    usage:
+      /manageplayers <name>
+    aliases: [manageplayers, pmanage]
+  nick:
+    discription:
+      change name in chat
+    usage:
+      /nick <nickname>
+
+  clearitems:
+    discription:
+      clears all ground drops
+    usage:
+      /clearitems
+
+  spawn:
+    discription:
+      teleport to spawn
+
+    usage:
+      /spawn
+  fly:
+    discription:
+      give yourselve the abbility to fly
+
+    usage:
+      /fly or /fly <name>
+  vanish:
+    description:
+      houdini this bitch
+    usage:
+      /vanish
+    aliases: [vanish, v]

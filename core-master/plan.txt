@@ -1,0 +1,11 @@
+Features:
+- Ranks (admin of buycraft) https://www.tebex.io/
+- Admin Commands (Ban, Kick, Mute, Ghost Mute[player kan niet zien dat hij gemute is], Stafchat, Vanish, tp, Gamemodes, punishment history, )
+- Main commands (/msg, /report, /tpa,)
+- Kit commands
+
+/ban Nigger 2d6m reden
+
+Database:
+- MongoDB
+- RabbitMQ
