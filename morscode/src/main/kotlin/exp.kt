@@ -23,4 +23,4 @@ fun expo(n:Double, gf:Double, t:Int, stijgt:Boolean):Int{
 
 fun main() {
     expo(4851.939283014644,1.075,10, true)
-}
+}s
